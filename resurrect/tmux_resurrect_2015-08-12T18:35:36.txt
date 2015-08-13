@@ -1,0 +1,19 @@
+pane	0	0	:config	1	:*	0	:/Users/chuckfairy	1	Vim	:/usr/local/Cellar/macvim/7.4-77/MacVim.app/Contents/MacOS/Vim .vimrc
+pane	0	1	:terminal	0	: 	0	:/Users/chuckfairy	1	bash	:
+pane	0	1	:terminal	0	: 	1	:/Users/chuckfairy	0	bash	:
+pane	0	1	:terminal	0	: 	2	:/Users/chuckfairy	0	bash	:
+pane	0	2	:portfolio	0	:-	0	:/Users/chuckfairy/Sites/chuckfairy-portfolio	1	bash	:
+pane	1	0	:bash	1	:*	0	:/Users/chuckfairy	1	bash	:
+pane	2	0	:bash	1	:*	0	:/Users/chuckfairy	1	bash	:
+pane	3	0	:bash	0	:-	0	:/Users/chuckfairy	1	bash	:
+pane	3	1	:bash	1	:*	0	:/Users/chuckfairy	1	bash	:
+pane	4	0	:bash	1	:*	0	:/Users/chuckfairy	1	bash	:
+window	0	0	1	:*	b67e,180x52,0,0,1
+window	0	1	0	: 	83e8,180x52,0,0{99x52,0,0,2,80x52,100,0[80x8,100,0,3,80x43,100,9,4]}
+window	0	2	0	:-	b684,180x52,0,0,7
+window	1	0	1	:*	b682,180x52,0,0,5
+window	2	0	1	:*	b683,180x52,0,0,6
+window	3	0	0	:-	b685,180x52,0,0,8
+window	3	1	1	:*	b686,180x52,0,0,9
+window	4	0	1	:*	5b6f,180x52,0,0,10
+state	0	0

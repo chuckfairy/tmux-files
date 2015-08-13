@@ -1,0 +1,11 @@
+pane	0	0	:Vim	1	:*	0	:/Users/chuckfairy/Sites/acdelco	1	Vim	:/usr/local/Cellar/macvim/7.4-77/MacVim.app/Contents/MacOS/Vim
+pane	0	1	:terminal	0	:-	0	:/Users/chuckfairy/Sites/acdelco	0	cmatrix	:cmatrix
+pane	0	1	:terminal	0	:-	1	:/Users/chuckfairy	1	bash	:
+pane	0	1	:terminal	0	:-	2	:/Users/chuckfairy	0	htop	:htop
+pane	1	0	:bash	1	:*	0	:/Users/chuckfairy	1	bash	:
+pane	2	0	:bash	1	:*	0	:/Users/chuckfairy	1	bash	:
+window	0	0	1	:*	b67e,180x52,0,0,1
+window	0	1	0	:-	83e8,180x52,0,0{99x52,0,0,2,80x52,100,0[80x8,100,0,3,80x43,100,9,4]}
+window	1	0	1	:*	b682,180x52,0,0,5
+window	2	0	1	:*	b683,180x52,0,0,6
+state	0	0
